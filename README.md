@@ -53,7 +53,6 @@ The analysis provides insights into pricing trends based on specifications, allo
 
 ## Future Improvements
 - More advanced feature engineering for predictive modeling.
-- Visualizations to enhance understanding of price distribution.
 
 ## Author
 Developed as part of a data cleaning and analysis project.
